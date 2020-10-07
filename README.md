@@ -1,15 +1,19 @@
 # Checklist Challange 
+## HTML CSS JS
 
-[TRY ME!](https://rico157.github.io/checklist-mini-app/)
+[TRY ME! 👀](https://rico157.github.io/checklist-mini-app/)
+---
+## Features
 
-
-## Tasks
-
-* It should list some tasks already set
-* Items should be marked when clicked, with strike-through text and a checkmark.
-* It should have an input field  to add new items to the checklist.
-* Add a due by date to your tasks and colours them red if they are overdue.
-
+* List all tasks
+* Mark tasks done/undone
+* Add new items to the checklist.
+* Due by date colours red if overdue.
+---
 ## Preview
 
 ![Screenshot](https://github.com/rico157/checklist-mini-app/blob/master/screenshot/Screenshot.png)
+---
+## Similar Project:
+[Checklist-API](https://github.com/rico157/checklist-api)
+---
