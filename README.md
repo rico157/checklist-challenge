@@ -1,7 +1,7 @@
 # Checklist Challange 
 ## HTML CSS JS
 
-[TRY ME! 👀](https://rico157.github.io/checklist-challange/)
+[TRY ME! 👀](https://rico157.github.io/checklist-challenge/)
 ---
 ## Features
 
